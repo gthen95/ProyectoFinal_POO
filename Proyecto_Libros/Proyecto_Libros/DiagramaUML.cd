@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proyecto_Libros.Program">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Libros.ErrorHandler">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ErrorHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Libros.Clases.Funciones">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAQAAAAAAAAAAAAIAAEAIAAAAAAEAAAA=</HashCode>
+      <FileName>Clases\Funciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Libros.Clases.Libro">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAEAAAAAgAAAAAAAgIAQAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Clases\Libro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Libros.Clases.Venta">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAEEAACAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Venta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Libros.Clases.VentaDetalle">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAUAAAAAAAAAAAAEgAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\VentaDetalle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Libros.Controllers.VentaController">
+    <Position X="4.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIABAEAAAABAAAAAABAAAAAAAQAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Controllers\VentaController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Libros.Controllers.LibroController">
+    <Position X="6.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAAAAAABAACAAAAAAgQAAAAAQAAAABECAAAAA=</HashCode>
+      <FileName>Controllers\LibroController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
