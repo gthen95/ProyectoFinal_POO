@@ -85,7 +85,7 @@ namespace Proyecto_Libros.Clases
                 var valor = Console.ReadLine();
 
                 int.TryParse(valor, out int n);
-                if (n == 0)
+                if (n == 0 || n < 0)
                 {
                     Console.WriteLine("\nEl valor debe ser numerico y mayor que cero");
                     resultado = -1;
@@ -109,7 +109,7 @@ namespace Proyecto_Libros.Clases
                 var valor = Console.ReadLine();
 
                 decimal.TryParse(valor, out decimal n);
-                if (n == 0)
+                if (n == 0 || n < 0)
                 {
                     Console.WriteLine("\nEl valor debe ser numerico y mayor que cero");
                     resultado = -1;
